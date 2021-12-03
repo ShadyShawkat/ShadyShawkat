@@ -13,7 +13,7 @@ I'm a remote Front/Full-stack web developer
 
 <br/><br/>
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyShawkat&layout=compact" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShadyShawkat&show_icons=true&include_all_commits=true&theme=midnight-purple" /></a> |
+| <a href="https://github.com/ShadyShawkat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyShawkat&layout=compact" /></a> | <a href="https://github.com/ShadyShawkat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShadyShawkat&show_icons=true&include_all_commits=true&theme=midnight-purple" /></a> |
 | ------------- | ------------- |
 
 <br/>
