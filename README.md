@@ -12,9 +12,9 @@ I'm a remote front-end/full-stack web developer
 - Currently, I'm a Microverse student.
 
 <br/><br/>
-
+  
 | <a href="https://github.com/ShadyShawkat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyShawkat&layout=compact&theme=midnight-purple" /></a> | <a href="https://github.com/ShadyShawkat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShadyShawkat&show_icons=true&include_all_commits=true&theme=midnight-purple" /></a> |
-| ------------- | ------------- |
+|:-------------:|:-------------:|
 
 <br/>
 
