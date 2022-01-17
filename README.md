@@ -18,10 +18,12 @@ I'm a remote front-end/full-stack web developer
 
 <br/>
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Shady%20Shawkat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shady-shawkat/)](https://www.linkedin.com/in/shady-shawkat/)
+[![Twitter Badge](https://img.shields.io/badge/-@Shady%20Shawkat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShadyShawkat3)](https://twitter.com/ShadyShawkat3)
+
+
 <p align="center"> 
   You are visitor number: <br>
   <img src="https://profile-counter.glitch.me/ShadyShawkat/count.svg" />
 </p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Shady%20Shawkat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shady-shawkat/)](https://www.linkedin.com/in/shady-shawkat/)
-[![Twitter Badge](https://img.shields.io/badge/-@Shady%20Shawkat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShadyShawkat3)](https://twitter.com/ShadyShawkat3)
