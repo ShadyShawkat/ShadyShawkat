@@ -30,16 +30,18 @@ I'm a remote front-end/full-stack web developer
 ## &#x1f4c8; GitHub Stats
 <div align='center'>
   <a href="https://github.com/ShadyShawkat">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ShadyShawkat&show_icons=true&include_all_commits=true&theme=midnight-purple" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ShadyShawkat&show_icons=true&include_all_commits=true&theme=midnight-purple" />
   </a> 
 
   <a href="https://github.com/ShadyShawkat">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyShawkat&layout=compact&theme=midnight-purple" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyShawkat&layout=compact&theme=midnight-purple" />
   </a>
 
 
   <div align="center">
-    <a href="https://github.com/ShadyShawkat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadyShawkat&theme=midnight-purple" /></a>
+    <a href="https://github.com/ShadyShawkat">
+      <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadyShawkat&theme=midnight-purple" />
+    </a>
   </div>   
 </div>
 <br/>
