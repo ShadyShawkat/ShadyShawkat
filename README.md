@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shady! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Hi, I'm Shady! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1>
 
 I'm a remote front-end/full-stack web developer 
 
