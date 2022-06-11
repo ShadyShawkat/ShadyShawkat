@@ -9,6 +9,7 @@ I'm a remote front-end/full-stack web developer
 
 - I career shifted into programming years ago and it was one of the best decisions I've ever made.
 - I joined a 9 months scholarship program in my country in 2020.
+- I graduated from [Microverse](https://www.microverse.org/) in 2022.
 
 
 <br/><br/>
